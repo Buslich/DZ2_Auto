@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/ejlf4w6a0nk3hsob/branch/main?svg=true)](https://ci.appveyor.com/project/Buslich/dz2-auto-aet6r/branch/main)
